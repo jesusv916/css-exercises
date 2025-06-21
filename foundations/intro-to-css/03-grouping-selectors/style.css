@@ -1,0 +1,14 @@
+.black-one, 
+.yellow-one {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.black-one{
+    background-color: #222222;
+    color: white;
+}
+
+.yellow-one {
+    background-color: #ffff69;
+}
